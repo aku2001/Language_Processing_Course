@@ -1,0 +1,10 @@
+TPC2: Adder on/off
+(published on 2023.02.21)
+
+Create a Python program that has the following behavior:
+
+We want a program that sums up all the sequences of digits found in a text;
+Prepare the program to read the text from the input channel: stdin;
+Whenever you encounter the string “Off” in any combination of uppercase and lowercase, this behavior is turned off;
+Whenever you encounter the string “On” in any combination of uppercase and lowercase, this behavior is turned back on;
+Whenever you find the “=” character, the result of the sum is placed in the output.
